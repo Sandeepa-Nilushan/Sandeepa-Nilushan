@@ -1,3 +1,6 @@
+![logo](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)
+
+
 # 💫 About Me:
 Hi 👋, I'm Sandeepa Nilushan. A backend developer passionate about building robust and scalable server-side applications. Always eager to learn and contribute to challenging projects.
 
@@ -25,3 +28,10 @@ Hi 👋, I'm Sandeepa Nilushan. A backend developer passionate about building ro
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sandeepa-Nilushan/Sandeepa-Nilushan/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/manula413/manula413/output/github-snake.svg" />
 </picture>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
